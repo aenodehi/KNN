@@ -1,7 +1,7 @@
 ## K Nearest Neighbour Classification
 
 ### Subjects & Challenges:
-- In shot in K Nearest Neighbour Classifier & Regressor
+- Inshot in K Nearest Neighbour Classifier & Regressor
 
 
 ### Setup Instructions
